@@ -120,8 +120,8 @@ total 0
 [MacBook:jorgen] ~/slask/javaforum/foo [git:master] 
 
 #####
-här hoppade jag över till det "svarta skalet" och skapade
-"server-repositoryt" i ~/slask/javaforum/foobar.git
+this is where i switched over to the "black shell" (server.txt)
+and created the "server-repository" in ~/slask/javaforum/foobar.git
 #####
 
 foo>git remote add origin ~/slask/javaforum/foobar.git/
