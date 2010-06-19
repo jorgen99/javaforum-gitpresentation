@@ -1,0 +1,11 @@
+[MacBook:jorgen] ~/slask/javaforum 
+javaforum>git clone ~/slask/javaforum/foobar.git/
+Initialized empty Git repository in /Users/jorgen/slask/javaforum/foobar/.git/
+[MacBook:jorgen] ~/slask/javaforum 
+javaforum>cd foobar
+[MacBook:jorgen] ~/slask/javaforum/foobar [git:master] 
+foobar>ls -l
+total 0
+-rw-r--r--  1 jorgen  staff  0 17 Jun 19:34 a
+-rw-r--r--  1 jorgen  staff  0 17 Jun 19:34 aa
+-rw-r--r--  1 jorgen  staff  0 17 Jun 19:34 aaaaa

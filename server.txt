@@ -1,0 +1,20 @@
+slask>cd javaforum/
+[MacBook:jorgen] ~/slask/javaforum 
+javaforum>mkdir foobar.git
+[MacBook:jorgen] ~/slask/javaforum 
+javaforum>cd foobar.git/
+[MacBook:jorgen] ~/slask/javaforum/foobar.git 
+foobar.git>git init --bare .
+Initialized empty Git repository in /Users/jorgen/slask/javaforum/foobar.git/
+[MacBook:jorgen] ~/slask/javaforum/foobar.git 
+foobar.git>l
+total 24
+-rw-r--r--   1 jorgen  staff   23 17 Jun 19:31 HEAD
+-rw-r--r--   1 jorgen  staff   85 17 Jun 19:31 config
+-rw-r--r--   1 jorgen  staff   73 17 Jun 19:31 description
+drwxr-xr-x  12 jorgen  staff  408 17 Jun 19:31 hooks/
+drwxr-xr-x   3 jorgen  staff  102 17 Jun 19:31 info/
+drwxr-xr-x   4 jorgen  staff  136 17 Jun 19:31 objects/
+drwxr-xr-x   4 jorgen  staff  136 17 Jun 19:31 refs/
+[MacBook:jorgen] ~/slask/javaforum/foobar.git 
+foobar.git>

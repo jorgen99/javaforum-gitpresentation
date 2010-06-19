@@ -1,0 +1,8 @@
+h1. Git presentation
+
+This is the slides and commandline history from a short introduction/demo of Git that I held at Javaforum Gothenburg, 2010-06-17.
+
+The text files contains the commandline buffers that I used during the demos.
+* main_developer.txt - This is where I created the initial repository and pushed it to the "central" repository
+* server.txt - Creating the "central" repository
+* second_developer.txt - Cloned the "central" repository here.
